@@ -1,0 +1,8 @@
+click==7.1.2
+MIDIUtil==1.2.1
+# pyo==1.0.1
+fastapi
+uvicorn[standard]
+music21
+MIDIUtil
+click
