@@ -24,7 +24,8 @@ Users listen to generated music, rate it, and the algorithm improves future melo
 ---
 ## 🎥 Demo
 
-> _Local demo screenshots / video coming soon_
+<img width="1512" height="949" alt="image" src="https://github.com/user-attachments/assets/e435bb08-9258-477b-8164-a90d78621443" />
+
 
 Run the project locally and open:
 - Frontend: http://localhost:3000  
